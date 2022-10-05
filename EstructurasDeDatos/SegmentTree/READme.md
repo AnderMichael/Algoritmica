@@ -15,7 +15,7 @@ La raíz del *Árbol de segmentos* representa a todo el array $A[0:n-1]$ en conj
 Un detalle importante para tener en cuenta es que una vez que el *Árbol de segmentos* es construido, su estructura no puede ser cambiada. Pueden actualizarse el valor de los nodos pero sin modificar la estructura. El *Árbol de segmentos* cuenta con las siguientes operaciones básicas para su uso en distintos problemas:
 
 * Update - Actualizar: Al actualizar un elemento del array A y reflejar el cambio correspondiente en todo el árbol.
-* Query - Consulta: En esta operación se puede consultar por un intervalo o segmento y devolver una respuesta al problema (operaciones correspondientes a una estructura algebraica "Monoide")
+* Query - Consulta: En esta operación se puede consultar por un intervalo o segmento y devolver una respuesta al problema (operaciones correspondientes a una estructura algebraica "Monoide").
 
 Estas últimas pueden observarse en el código base del *Árbol de segmentos* de este repositorio:
 
