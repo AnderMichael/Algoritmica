@@ -10,8 +10,6 @@ Las operaciones pueden verse mejor gráficamente:
 
 - **Find**
 
-  
-
   <p align="center">
     <img src="https://jariasf.files.wordpress.com/2012/04/find0.jpg"/>
   </p>
@@ -20,7 +18,7 @@ Las operaciones pueden verse mejor gráficamente:
     <img src="https://jariasf.files.wordpress.com/2012/04/find1.jpg"/>
   </p>
 
-<p align="right">
+<p align="center">
   <img src="https://jariasf.files.wordpress.com/2012/04/find2.jpg"/>
 </p>
 
@@ -52,7 +50,7 @@ Así también se puede apreciar la aplicación de este algoritmo en el problema 
 
 * [Anasi_Cobweb.cpp](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/Union_Find/Anasi_Cobweb.cpp)
 
-#### Referencias
+#### Referencias (imaágenes y recursos)
 
 https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/
 
