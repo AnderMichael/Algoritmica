@@ -16,6 +16,7 @@ Los métodos principales para un manejo básico son: Insertar palabra, borrar pa
 Códigos base de esta estructura:
 * [TriesArray.cpp](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/TRIE/TriesArray.cpp)
 * [TriesMap.cpp](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/TRIE/TriesMap.cpp)
+
 Implementación del método `delete` y resolución de algunos problemas como ser la búsqueda de frases utilizando el contenido del TRIE y la búsqueda de palabras dada un sopa de letras.
 * [TriesArray_implementations.cpp](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/TRIE/TriesArray_implementations.cpp)
 
