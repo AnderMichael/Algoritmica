@@ -19,7 +19,7 @@ Un detalle importante para tener en cuenta es que una vez que el *Árbol de segm
 
 Estas últimas pueden observarse en el código base del *Árbol de segmentos* de este repositorio:
 
-* [SegmentTree.cpp]{https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/SegmentTree/SegmentTree.cpp}
+* [SegmentTree.cpp](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/SegmentTree/SegmentTree.cpp)
 
 #### Referencias
 
