@@ -4,7 +4,7 @@ Entonces para construir la estructura propuesta se consideran los siguientes pun
 
 1. La raíz de $T$ representa todo el array en conjunto $A[0:n-1]$.
 2. Cada hoja en el *Árbol de segmentos* $T$ representa un elemento.
-3. Los nodos internos del *Árbol de segmentos* representan la unión de elementos en el intervalo $A[i:j]$ donde $0<i<j<n$.
+3. Los nodos internos del *Árbol de segmentos* representan la unión de elementos en el intervalo $A[i:j]$ donde $0 < i < j < n$.
 
 La raíz del *Árbol de segmentos* representa a todo el array $A[0:n-1]$ en conjunto. El siguiente paso para la construcción es dividir en dos intervalos o segmentos tal que representen $A[0:(n-1)/2]$ y $A[(n-1)/2 + 1:(n-1)]$. Así que en cada paso, el segmento es dividido en dos hijos que representan esas dos mitades pero en términos del segmento padre. La altura del *Árbol de segmentos* será $log_2 (n)$. El número total de nodos es $2n -1$.
 
