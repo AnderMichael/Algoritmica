@@ -3,7 +3,7 @@ Repositorio destinado para la documentación los principales algoritmos para la 
 
 ## Estructura de datos
 - [BIT(Binary Indexed Tree)](https://github.com/AnderMichael/Algoritmica/tree/main/EstructurasDeDatos/BIT)
-- [Segment_Tree] (https://github.com/AnderMichael/Algoritmica/tree/main/EstructurasDeDatos/SegmentTree)
+- [Segment_Tree](https://github.com/AnderMichael/Algoritmica/tree/main/EstructurasDeDatos/SegmentTree)
 - [TRIE](https://github.com/AnderMichael/Algoritmica/tree/main/EstructurasDeDatos/TRIE)
 - [Union_Find](https://github.com/AnderMichael/Algoritmica/tree/main/EstructurasDeDatos/Union_Find)
 ## Backtracking
