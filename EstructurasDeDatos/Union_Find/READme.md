@@ -8,7 +8,7 @@ Todo este procedimiento está basado en 2 operaciones:
 
 Las operaciones pueden verse mejor gráficamente:
 
-- **Find**
+### **Find**
 
   <p align="center">
     <img src="https://jariasf.files.wordpress.com/2012/04/find0.jpg"/>
@@ -26,7 +26,7 @@ Las operaciones pueden verse mejor gráficamente:
   <img src="https://jariasf.files.wordpress.com/2012/04/find3.jpg"/>
 </p>
 
-* **Union**
+### **Union**
 
 ![img](https://jariasf.files.wordpress.com/2012/04/union2.jpg)
 
