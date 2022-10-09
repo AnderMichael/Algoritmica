@@ -50,10 +50,10 @@ Así también se puede apreciar la aplicación de este algoritmo en el problema 
 
 * [Anasi_Cobweb.cpp](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/Union_Find/Anasi_Cobweb.cpp)
 
-#### Referencias (imaágenes y recursos)
+#### Referencias (imágenes y recursos)
 
 https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/
 
 https://jariasf.wordpress.com/2012/04/02/disjoint-set-union-find/
 
-Competitive Programming 3: The New Lower Bound of Programming Contests, Volumen 3. Steven Halim (2013
+Competitive Programming 3: The New Lower Bound of Programming Contests, Volumen 3. Steven Halim (2013).
