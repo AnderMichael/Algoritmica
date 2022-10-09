@@ -10,5 +10,6 @@ Repositorio destinado para la documentación los principales algoritmos para la 
 ## Backtracking
 - [Backtracking](https://github.com/AnderMichael/Algoritmica/tree/main/Backtracking)
 
- La Paz - Bolivia
-    UPB - 2022
+La Paz - Bolivia
+    
+   UPB - 2022
