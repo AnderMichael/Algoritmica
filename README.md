@@ -1,4 +1,4 @@
-# Algoritmica
+# Algorítmica
 Repositorio destinado para la documentación los principales algoritmos para la resolución de distintos problemas. Se tienen los siguientes tópicos almacenados en este resporitorio:
 
 ## Estructura de datos
