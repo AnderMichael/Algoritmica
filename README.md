@@ -11,9 +11,15 @@ Repositorio destinado para la documentación los principales algoritmos para la 
 - [Backtracking](https://github.com/AnderMichael/Algoritmica/tree/main/Backtracking)
 
 ## Programación Dinámica
-- [Subset_Sum _DP](https://github.com/AnderMichael/Algoritmica/tree/main/Programaci%C3%B3n_Din%C3%A1mica/SubsetSumDP)
-- [Digit_DP]
-(https://github.com/AnderMichael/Algoritmica/tree/main/Programaci%C3%B3n_Din%C3%A1mica/DigitDP)
+- [Subset_Sum_DP](https://github.com/AnderMichael/Algoritmica/tree/main/Programaci%C3%B3n_Din%C3%A1mica/SubsetSumDP)
+- [Digit_DP](https://github.com/AnderMichael/Algoritmica/tree/main/Programaci%C3%B3n_Din%C3%A1mica/DigitDP)
+
+## Teoría de Grafos
+- [Algortimo_Kruskal](https://github.com/AnderMichael/Algoritmica/tree/main/Teor%C3%ADa_Grafos/Algoritmo_Kruskal)
+- [Algoritmo_PRIM](https://github.com/AnderMichael/Algoritmica/tree/main/Teor%C3%ADa_Grafos/Algoritmo_PRIM)
+
+## Teoría de Números
+
 La Paz - Bolivia
     
    UPB - 2022
