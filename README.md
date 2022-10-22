@@ -19,6 +19,7 @@ Repositorio destinado para la documentación los principales algoritmos para la 
 - [Algoritmo_PRIM](https://github.com/AnderMichael/Algoritmica/tree/main/Teor%C3%ADa_Grafos/Algoritmo_PRIM)
 
 ## Teoría de Números
+- [Búsqueda_Binaria](https://github.com/AnderMichael/Algoritmica/tree/main/Teor%C3%ADa_N%C3%BAmeros/B%C3%BAsqueda_Binaria)
 
 La Paz - Bolivia
     
