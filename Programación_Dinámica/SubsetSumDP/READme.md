@@ -38,5 +38,7 @@ La implementación de ambos métodos:
 Referencias
 
 https://algorithms.tutorialhorizon.com/dynamic-programming-subset-sum-problem/
+
 https://www.simplilearn.com/tutorials/data-structure-tutorial/subset-sum-problem
+
 https://en.wikipedia.org/wiki/Subset_sum_problem
