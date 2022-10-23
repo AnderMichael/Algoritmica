@@ -29,3 +29,14 @@ Cada vez que consideramos un elemento, se tiene una de las siguientes opciones:
 Si la suma es igual a 0 después de evaluar todos o cierta cantidad de elementos entonces existirá una respuesta positiva, de lo contrario negativa.
 
 ![image](https://user-images.githubusercontent.com/101998948/197376819-a9a7ff69-3558-4c4c-974d-9bfd6455387e.png)
+
+La implementación de ambos métodos:
+
+- [SubsetSumTD](https://github.com/AnderMichael/Algoritmica/blob/main/Programaci%C3%B3n_Din%C3%A1mica/SubsetSumDP/SubsetSumTD.cpp)
+- [SubsetSumBU](https://github.com/AnderMichael/Algoritmica/blob/main/Programaci%C3%B3n_Din%C3%A1mica/SubsetSumDP/SubsetSumBU.cpp)
+
+Referencias
+
+https://algorithms.tutorialhorizon.com/dynamic-programming-subset-sum-problem/
+https://www.simplilearn.com/tutorials/data-structure-tutorial/subset-sum-problem
+https://en.wikipedia.org/wiki/Subset_sum_problem
