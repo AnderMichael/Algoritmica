@@ -10,5 +10,11 @@ El procedimiento continúa para todos los nodos que no hayan sido visitados aún
 
 La primera diferencia con Kruskal es que el árbol de expansión mínimo está guardado de una manera diferente y en PRIM solo se ordenan las aristas a medida que se vayan introduciendo, no como en Kruskal todas en conjunto.
 La implementación de este algoritmo se encuentra en el siguiente enlace:
--[Algoritmo_PRIM](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_Grafos/Algoritmo_PRIM/PRIM_Algorithm.cpp)
+
+- [Algoritmo_PRIM](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_Grafos/Algoritmo_PRIM/PRIM_Algorithm.cpp)
+
 Referencias
+
+https://es.wikipedia.org/wiki/Algoritmo_de_Prim
+
+Competitive Programming 3: The New Lower Bound of Programming Contests, Volumen 3. Steven Halim (2013)
