@@ -13,6 +13,10 @@ Repositorio destinado para la documentación los principales algoritmos para la 
 ## Programación Dinámica
 - [Subset_Sum_DP](https://github.com/AnderMichael/Algoritmica/tree/main/Programaci%C3%B3n_Din%C3%A1mica/SubsetSumDP)
 - [Digit_DP](https://github.com/AnderMichael/Algoritmica/tree/main/Programaci%C3%B3n_Din%C3%A1mica/DigitDP)
+- [Edit_Distance](https://github.com/AnderMichael/Algoritmica/tree/main/Programaci%C3%B3n_Din%C3%A1mica/Edit_Distance)
+- [Floyd_Warshall](https://github.com/AnderMichael/Algoritmica/tree/main/Programaci%C3%B3n_Din%C3%A1mica/Algoritmo_FloydWarshall)
+- [LIS](https://github.com/AnderMichael/Algoritmica/tree/main/Programaci%C3%B3n_Din%C3%A1mica/LIS)
+- [Rod_Cutting](https://github.com/AnderMichael/Algoritmica/tree/main/Programaci%C3%B3n_Din%C3%A1mica/Rod_Cutting)
 
 ## Teoría de Grafos
 - [Algortimo_Kruskal](https://github.com/AnderMichael/Algoritmica/tree/main/Teor%C3%ADa_Grafos/Algoritmo_Kruskal)
