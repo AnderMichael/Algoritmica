@@ -16,7 +16,11 @@ Con estos simples pasos y la idea principal se obtiene el siguiente código base
 
 * [bit.cpp](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/BIT/bit.cpp)
 
-#### Referencias
+## Problemas
+- [MovieCollection](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/BIT/Problemas/MovieCollection.cpp)
+- [Supercomputers](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/BIT/Problemas/Supercomputers.cpp)
+- [Turbo](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/BIT/Problemas/Turbo.cpp)
+## Referencias
 
 https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/tutorial/
 
