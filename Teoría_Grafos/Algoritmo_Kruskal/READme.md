@@ -14,7 +14,12 @@ Se recorre evaluando todo el arreglo de aristas y finalmente se llega a un árbo
 
 Para finalizar, Kruskal almacena el grafo de una sola forma, no importa cómo introduzcamos el grafo al algoritmo, el resultado siempre será el mismo a menos que se cambien los pesos.
 
-Referencias
+## Problemas
+
+- [ReconnectingComputerSites](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_Grafos/Algoritmo_Kruskal/Problemas/ReconnectingComputerSites.cpp)
+- [Freckles](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_Grafos/Algoritmo_Kruskal/Problemas/Freckles.cpp)
+
+## Referencias
 
 https://www.simplilearn.com/tutorials/data-structure-tutorial/kruskal-algorithm
 
