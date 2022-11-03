@@ -10,7 +10,7 @@ Se cree que para hacer búsqueda binaria se necesita si o sí de un arreglo orde
 
 El algoritmo en ese repositorio viene dado por:
 
-- [Búsqueda binaria] (https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_N%C3%BAmeros/B%C3%BAsqueda_Binaria/BinarySearch.cpp)
+- [Búsqueda binaria](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_N%C3%BAmeros/B%C3%BAsqueda_Binaria/BinarySearch.cpp)
 
 Referencias
 
