@@ -13,7 +13,11 @@ La implementación de este algoritmo se encuentra en el siguiente enlace:
 
 - [Algoritmo_PRIM](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_Grafos/Algoritmo_PRIM/PRIM_Algorithm.cpp)
 
-Referencias
+## Problemas
+
+- [SendingEmail](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_Grafos/Algoritmo_PRIM/Problemas/SendingEmail.cpp)
+
+## Referencias
 
 https://es.wikipedia.org/wiki/Algoritmo_de_Prim
 
