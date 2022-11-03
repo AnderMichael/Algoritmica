@@ -217,8 +217,8 @@ vector<Point> convexHull(vector<Point> &points)
 ```
 ## Código Base
 
--[ElementosBasicos](https://github.com/AnderMichael/Algoritmica/blob/main/Geometria_Computacional/Elementos_Basicos.cpp)
--[OperacionesElementos](https://github.com/AnderMichael/Algoritmica/blob/main/Geometria_Computacional/Operaciones_Elementos.cpp)
+- [ElementosBasicos](https://github.com/AnderMichael/Algoritmica/blob/main/Geometria_Computacional/Elementos_Basicos.cpp)
+- [OperacionesElementos](https://github.com/AnderMichael/Algoritmica/blob/main/Geometria_Computacional/Operaciones_Elementos.cpp)
 
 ## Problemas
 
