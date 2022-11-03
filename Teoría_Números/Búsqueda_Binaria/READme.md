@@ -12,7 +12,12 @@ El algoritmo en ese repositorio viene dado por:
 
 - [Búsqueda binaria](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_N%C3%BAmeros/B%C3%BAsqueda_Binaria/BinarySearch.cpp)
 
-Referencias
+## Problemas
+
+- [Coins_And_Triangles](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_N%C3%BAmeros/B%C3%BAsqueda_Binaria/Problemas/CoinsAndTriangles.cpp)
+- [The_Monkey_And_The_Oiled_Bamboo](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_N%C3%BAmeros/B%C3%BAsqueda_Binaria/Problemas/TheMonkeyAndTheOiledBamboo.cpp)
+
+## Referencias
 
 http://codigomaldito.blogspot.com/2005/11/busqueda-binaria.html
 
