@@ -40,12 +40,14 @@ $$
 dp[pos][1][sum]=dp[pos+1][1][sum−numero[pos]+\sum_{d=0}^{numero[pos]−1}dp[pos+1][0][sum−d]
 $$
 
-Puede concluirse que $DigitDP$ es una excelente forma de resolver problemas basados en el enunciado del principio. Se pueden agregar más estados y criterios medida que se avance en el problema. En el repositorio presente se tiene:
+Puede concluirse que $DigitDP$ es una excelente forma de resolver problemas basados en el enunciado del principio. Se pueden agregar más estados y criterios medida que se avance en el problema.
+
+## Problemas (Distintos enfoques)
 
 - [DigitDP-SumaDígitos](https://github.com/AnderMichael/Algoritmica/blob/main/Programaci%C3%B3n_Din%C3%A1mica/DigitDP/DigitDP-DigitSum.cpp)
 - [DigitDP-DigitoCondición](https://github.com/AnderMichael/Algoritmica/blob/main/Programaci%C3%B3n_Din%C3%A1mica/DigitDP/DigitDP-DigitIn.cpp)
 
-Referencias
+## Referencias
 
 https://codeforces.com/blog/entry/77096
 
