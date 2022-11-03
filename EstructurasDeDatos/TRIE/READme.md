@@ -17,10 +17,12 @@ Códigos base de esta estructura:
 * [TriesArray.cpp](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/TRIE/TriesArray.cpp)
 * [TriesMap.cpp](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/TRIE/TriesMap.cpp)
 
+## Problemas
+
 Implementación del método `delete` y la resolución de algunos problemas como ser la búsqueda de frases utilizando el contenido del TRIE y la búsqueda de palabras dada una sopa de letras.
 * [TriesArray_implementations.cpp](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/TRIE/TriesArray_implementations.cpp)
 
-#### Referencias
+## Referencias
 
 https://www.topcoder.com/thrive/articles/Using%20Tries
 
