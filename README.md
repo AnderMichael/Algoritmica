@@ -21,9 +21,14 @@ Repositorio destinado para la documentación los principales algoritmos para la 
 ## Teoría de Grafos
 - [Algortimo_Kruskal](https://github.com/AnderMichael/Algoritmica/tree/main/Teor%C3%ADa_Grafos/Algoritmo_Kruskal)
 - [Algoritmo_PRIM](https://github.com/AnderMichael/Algoritmica/tree/main/Teor%C3%ADa_Grafos/Algoritmo_PRIM)
+- [Flujo_Maximo](https://github.com/AnderMichael/Algoritmica/tree/main/Teor%C3%ADa_Grafos/Flujo_M%C3%A1ximo)
 
 ## Teoría de Números
 - [Búsqueda_Binaria](https://github.com/AnderMichael/Algoritmica/tree/main/Teor%C3%ADa_N%C3%BAmeros/B%C3%BAsqueda_Binaria)
+
+## Geometría Computacional
+- [Geometría_Computacional](https://github.com/AnderMichael/Algoritmica/tree/main/Geometria_Computacional)
+
 
 La Paz - Bolivia
     
