@@ -13,7 +13,7 @@ Puede demostrarse que el número de aumentos en el flujo realizados por este alg
 
 ## Código Base
 
-- [Karp:algorithm](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_Grafos/Flujo_M%C3%A1ximo/Edmonds_Karp/Karp_Algorithm.cpp)
+- [Karp_Algorithm](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_Grafos/Flujo_M%C3%A1ximo/Edmonds_Karp/Karp_Algorithm.cpp)
 
 ## Referencias
 https://eprints.ucm.es/id/eprint/16752/1/Memoria_TFM.pdf
