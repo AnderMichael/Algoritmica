@@ -11,6 +11,10 @@ Puede demostrarse que el número de aumentos en el flujo realizados por este alg
 - [Software_Allocation](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_Grafos/Flujo_M%C3%A1ximo/Edmonds_Karp/Problemas/SoftwareAllocation.cpp)
 - [Internet_Bandwidth](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_Grafos/Flujo_M%C3%A1ximo/Edmonds_Karp/Problemas/InternetBandwidth.cpp)
 
+## Código Base
+
+- [Karp:algorithm](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_Grafos/Flujo_M%C3%A1ximo/Edmonds_Karp/Karp_Algorithm.cpp)
+
 ## Referencias
 https://eprints.ucm.es/id/eprint/16752/1/Memoria_TFM.pdf
 https://www.topcoder.com/thrive/articles/A%20New%20Approach%20to%20the%20Maximum%20Flow%20Problem
