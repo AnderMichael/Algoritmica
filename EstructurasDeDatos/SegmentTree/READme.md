@@ -21,7 +21,12 @@ Estas últimas pueden observarse en el código base del *Árbol de segmentos* de
 
 * [SegmentTree.cpp](https://github.com/AnderMichael/Algoritmica/blob/main/EstructurasDeDatos/SegmentTree/SegmentTree.cpp)
 
-#### Referencias
+## Problemas
+
+- [Skyline](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3673)
+- [Ahoy, Pirates!](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2397)
+
+## Referencias
 
 https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/
 
