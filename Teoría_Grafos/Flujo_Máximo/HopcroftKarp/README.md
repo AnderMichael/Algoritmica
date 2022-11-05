@@ -96,6 +96,10 @@ Subgrafo de U2 a V3 pasando solo por los vértices emparejados.
 1. Los pasos de 2 a 5 se repetirán dependiendo de la cantidad de los nodos que tengan en total los dos grupos. Por ese motivo, la cantidad de veces que vayamos a probar los nodos hasta llegar al punto en que el menor grupo de nodos sea igual a M o si no se pueden realizar más conexiones. Por ese motivo la cantidad de veces que repetiremos este proceso será raíz de la cantidad de nodos.O(nodos)
 2. Luego dentro del bucle podemos ver que necesitaremos un BFS para hacer las primeras conexiones para conectarlas a M. Después, para buscar nuevas conexiones para los nodos que no hayan sido conectados se usará un DFS.  Para eso la complejidad máxima que usará para ambas búsquedas será la cantidad de posibles conexiones. O(aristas)
 
+## Código base
+
+[Hopcroft-Karp](https://github.com/AnderMichael/Algoritmica/blob/main/Teor%C3%ADa_Grafos/Flujo_M%C3%A1ximo/HopcroftKarp/HopcroftKarp.cpp)
+
 Como es dentro de un bucle la complejidad del algoritmo es: O(an).
 ## **Ejercicio.-**
 [**10080 - Gopher II**](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1021)
