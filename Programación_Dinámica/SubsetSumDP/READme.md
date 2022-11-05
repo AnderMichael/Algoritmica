@@ -35,7 +35,7 @@ La implementación de ambos métodos:
 - [SubsetSumTD](https://github.com/AnderMichael/Algoritmica/blob/main/Programaci%C3%B3n_Din%C3%A1mica/SubsetSumDP/SubsetSumTD.cpp)
 - [SubsetSumBU](https://github.com/AnderMichael/Algoritmica/blob/main/Programaci%C3%B3n_Din%C3%A1mica/SubsetSumDP/SubsetSumBU.cpp)
 
-Referencias
+## Referencias
 
 https://algorithms.tutorialhorizon.com/dynamic-programming-subset-sum-problem/
 
