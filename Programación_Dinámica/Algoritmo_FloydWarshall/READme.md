@@ -7,8 +7,8 @@ El algoritmo de Floyd-Warshall es un algoritmo para encontrar el camino más cor
 
 ## Problemas
 
-[Page Hopping](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=762)
-[Greg_and_Graph](http://codeforces.com/problemset/problem/295/B)
+- [Page Hopping](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=762)
+- [Greg_and_Graph](http://codeforces.com/problemset/problem/295/B)
 
 ## Referencias
 https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/
