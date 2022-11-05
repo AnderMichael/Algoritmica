@@ -1,3 +1,4 @@
+// Link del problema https://acm.timus.ru/problem.aspx?space=1&num=1671
 #include <iostream>
 #include <stack>
 #include <vector>
