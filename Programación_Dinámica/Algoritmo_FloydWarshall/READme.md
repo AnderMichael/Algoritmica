@@ -4,3 +4,11 @@ Este algoritmo sigue el enfoque de programación dinámica para encontrar los ca
 El algoritmo de Floyd-Warshall es un algoritmo para encontrar el camino más corto entre todos los pares de vértices en un gráfico ponderado. Este algoritmo funciona tanto para gráficos ponderados dirigidos como no dirigidos. Pero, no funciona para las gráficas con ciclos negativos (donde la suma de las aristas en un ciclo es negativa).
 
 ![image](https://user-images.githubusercontent.com/101998948/197447122-2326cd08-8f0c-4e2c-afcd-e04878bc070e.png)
+
+## Problemas
+
+[Page Hopping](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=762)
+[Greg_and_Graph](http://codeforces.com/problemset/problem/295/B)
+
+## Referencias
+https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/
