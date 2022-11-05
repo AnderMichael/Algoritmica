@@ -4,3 +4,12 @@ El problema de Rod Cutting básicamente nos dice que si tenemos una barra de lon
 Es un problema parecido al de la mochila, ya que debemos analizar todas las opciones posibles y a partir de estas encontrar la mejor solución, en este caso, encontrar la mejor combinación de barras que nos den la ganancia máxima.
 
 ![image](https://user-images.githubusercontent.com/101998948/197447436-d5831481-ded6-456f-b616-5f3428a1792b.png)
+
+## Problemas
+
+- [Rod_Cutting](https://www.interviewbit.com/problems/rod-cutting/)
+
+## Referencias
+
+https://www.geeksforgeeks.org/cutting-a-rod-dp-13/
+https://sites.radford.edu/~nokie/classes/360/dp-rod-cutting.html
