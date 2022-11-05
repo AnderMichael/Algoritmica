@@ -1,3 +1,4 @@
+// Link del problema https://open.kattis.com/problems/goodmorning
 #include <bits/stdc++.h>
 #define input freopen("in.txt", "r", stdin)
 #define output freopen("out.txt", "w", stdout)
