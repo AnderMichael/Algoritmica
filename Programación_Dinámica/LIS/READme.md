@@ -5,3 +5,11 @@ El problema de la subsecuencia creciente más larga (LIS) es encontrar la longit
 ![image](https://user-images.githubusercontent.com/101998948/197447874-c7152c61-a44d-4ebf-83ad-da7eb0c64887.png)
 
 ![image](https://user-images.githubusercontent.com/101998948/197447905-c4ecf630-1948-43e2-a672-6c2571b2f34e.png)
+
+## Problemas
+- [Happy_Birthday](https://onlinejudge.org/external/120/12002.pdf)
+- [LCIS](https://codeforces.com/problemset/problem/10/D)
+
+## Referencias
+https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
+https://cp-algorithms.com/sequences/longest_increasing_subsequence.html
