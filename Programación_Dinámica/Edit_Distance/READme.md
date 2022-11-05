@@ -5,3 +5,13 @@ Para realizar el cálculo debemos contar cuantas veces debemos editar un caracte
 Para esto debemos construir un árbol con todas las posibilidades, y a partir de este podremos hallar el menor número de pasos que debemos realizar para que dos cadenas sean iguales.
 
 ![image](https://user-images.githubusercontent.com/101998948/197447580-aad6bdb2-6ad4-4d41-b484-6983ee965743.png)
+
+## Problemas
+
+- [EditDistance](https://www.interviewbit.com/blog/edit-distance-problem/#:~:text=What%20is%20the%20edit%20distance,of%20the%20dynamic%20programming%20approach%3F)
+
+## Referencias
+
+https://www.geeksforgeeks.org/edit-distance-dp-5/
+
+https://users.monash.edu/~lloyd/tildeAlgDS/Dynamic/Edit/
